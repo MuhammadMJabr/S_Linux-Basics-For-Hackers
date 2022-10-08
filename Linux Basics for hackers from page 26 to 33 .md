@@ -37,8 +37,11 @@ programs start up
 # After this wonderful introductory trip, we will explain some important commands like:
  **pwd** : To see your current location in system files.
  
+![](https://upload.wikimedia.org/wikipedia/commons/7/7c/Pwdkommando.png)
  
  **whoami** : To know the user which you entered with.
+
+![](https://infolinux.com/wp-content/uploads/2019/05/linux-whoami-example.png)
 
 **cd** : for changing directories:
 **_cd + the file name._**
@@ -47,6 +50,8 @@ If you want to take a step back use : "**cd ..**" and two steps use "**cd .. ..*
 
 **ls**: for listing a Dir.
 
+![](https://i.ytimg.com/vi/AFUbgZeL2C8/maxresdefault.jpg)
+
 use **ls -l** to know more things about the files like history, owner and size.
 
 and use **ls -la** to see the hidden files.
@@ -54,6 +59,8 @@ and use **ls -la** to see the hidden files.
 **--help / -h / -?** : for getting help: **_tool name + -h : nmap -h._**
 
 or _**--help + tool name.**_
+
+![](https://www.howtogeek.com/wp-content/uploads/2012/03/help-option.png?trim=1,1&bg-color=000&pad=1,1)
 
 _**We will finish here and continue later...**_
 **_Thanks For Reading._**
